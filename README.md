@@ -1,5 +1,5 @@
 ## 🐍 Algoritmos e lógica de programação com Python  
-Este repositório contém exercícios resolvidos em Python, feitos durante o primeiro semestre na disciplina de Algoritmos e Técnicas de Programação, no curso de Sistemas para Internet.
+Este repositório contém exercícios resolvidos em Python, feitos durante o primeiro semestre na disciplina de Algoritmos e Lógica de Programação, no curso de Sistemas para Internet.
 
 ## 📚 Sobre os exercícios 
 A lista é ideal para quem está iniciando na linguagem e quer praticar lógica de programação. Aqui você vai encontrar:
