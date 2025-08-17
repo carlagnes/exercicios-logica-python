@@ -3,7 +3,8 @@
 # Triângulos equiláteros têm os comprimentos dos 3 lados iguais;
 # Triângulos isósceles: têm os comprimentos de dois lados iguais;
 # Triângulos escalenos: têm os comprimentos dos três lados diferentes;
-# Faça um algoritmo que receba três valores X, Y e Z, e verifique se eles podem ser os comprimentos dos lados de um triângulo. Se forem, verificar se o triângulo é equilátero, isósceles ou escaleno. Informe, também, caso não formem um triângulo.
+# Faça um algoritmo que receba três valores X, Y e Z, e verifique se eles podem ser os comprimentos dos lados de um triângulo.
+# Se forem, verificar se o triângulo é equilátero, isósceles ou escaleno. Informe, também, caso não formem um triângulo.
 
 x = float(input("Digite o valor do primeiro lado: "))
 y = float(input("Digite o valor do segundo lado: "))
