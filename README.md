@@ -53,5 +53,5 @@ INFANTIL A: 5 - 7 anos; INFANTIL B: 8 - 10 anos; JUVENIL A: 11 - 13 anos; JUVENI
 
 [15-print_20-1](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-repeti%C3%A7%C3%A3o/15-printa_20-1.py): Utilizando a estrutura de repetição ENQUANTO (WHILE), faça um algoritmo que apresente todos os números inteiros de 20 a 1 (em ordem decrescente).
 
-[16-soma_valores](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-repeti%C3%A7%C3%A3o/16-soma_valores.py): Utilizando estrutura de repetição, faça um algoritmo que leia 10 valores reais, e apresente a sua soma.
+[16-soma_valores](/03-estruturas-de-repetição/16-soma_valores.py): Utilizando estrutura de repetição, faça um algoritmo que leia 10 valores reais, e apresente a sua soma.
    
