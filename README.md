@@ -13,7 +13,7 @@ A lista é ideal para quem está iniciando na linguagem e quer praticar lógica 
 - [Exercícios de entrada e saída](https://github.com/carlagnes/exercicios-logica-python/tree/main/entrada-saida)
 - [Estruturas de seleção](https://github.com/carlagnes/exercicios-logica-python/tree/main/estruturas-de-selecao)
   
-## 💬 Todos enunciados
+## 💬 Todos os enunciados
 [01-print](https://github.com/carlagnes/exercicios-logica-python/blob/main/entrada-saida/01-print.py): Quebrando a maldição: Imprima a mensagem "Olá, Mundo!" na tela.
 
 [02-soma](https://github.com/carlagnes/exercicios-logica-python/blob/main/entrada-saida/02-soma.py): Faça um algoritmo que calcule e apresente a soma de dois números inteiros informados pelo usuário.
@@ -32,9 +32,9 @@ A lista é ideal para quem está iniciando na linguagem e quer praticar lógica 
 
 [09-if_num_maior](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-selecao/09-if_num_maior.py): Escreva um algoritmo que receba três valores inteiros distintos e indique qual deles é o maior, e qual deles é o menor.
 
-[10-diferenca_numero](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-selecao/10-diferenca.py): Escreva um algoritmo que receba três valores inteiros distintos e apresente a diferença entre o maior e o menor.
+[10-diferenca_numero](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-selecao/10-diferenca_numero.py): Escreva um algoritmo que receba três valores inteiros distintos e apresente a diferença entre o maior e o menor.
 
-[11-salario_nivel](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-selecao/11-salario-nivel.py): Uma escola faz o pagamento de seus professores por hora/aula. Faça um algoritmo que calcule e exiba o salário mensal pago a um professor. Sabe-se que o há três níveis de professores, com valores de hora/aula conforme segue:
+[11-salario_nivel](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-selecao/11-salario_nivel.py): Uma escola faz o pagamento de seus professores por hora/aula. Faça um algoritmo que calcule e exiba o salário mensal pago a um professor. Sabe-se que o há três níveis de professores, com valores de hora/aula conforme segue:
 Professor nível 1: R$ 20,00 por hora/aula
 Professor nível 2: R$ 25,00 por hora/aula
 Professor nível 3: R$ 30,00 por hora/aula
@@ -46,7 +46,12 @@ Triângulos isósceles: têm os comprimentos de dois lados iguais;
 Triângulos escalenos: têm os comprimentos dos três lados diferentes;
 Faça um algoritmo que receba três valores X, Y e Z, e verifique se eles podem ser os comprimentos dos lados de um triângulo. Se forem, verificar se o triângulo é equilátero, isósceles ou escaleno. Informe, também, caso não formem um triângulo.
 
-[13-apto_idade](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-selecao/13-apto-idade.py): A confederação brasileira de natação promoverá eliminatórias para o próximo mundial. Fazer um algoritmo que receba a idade de um nadador e determine (imprima) a sua categoria segundo a tabela a seguir:
+[13-apto_idade](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-selecao/13-apto_idade.py): A confederação brasileira de natação promoverá eliminatórias para o próximo mundial. Fazer um algoritmo que receba a idade de um nadador e determine (imprima) a sua categoria segundo a tabela a seguir:
+INFANTIL A: 5 - 7 anos; INFANTIL B: 8 - 10 anos; JUVENIL A: 11 - 13 anos; JUVENIL B: 14 - 17 anos; SÊNIOR: Maiores de 18 anos.
 
+[14-printa_1-20](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-repeti%C3%A7%C3%A3o/14-printa_1-20.py): Faça um algoritmo que apresente todos os números inteiros de 1 a 20. Utilize estrutura de repetição.
 
+[15-print_20-1](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-repeti%C3%A7%C3%A3o/15-printa_20-1.py): Utilizando a estrutura de repetição ENQUANTO (WHILE), faça um algoritmo que apresente todos os números inteiros de 20 a 1 (em ordem decrescente).
+
+[16-soma_valores](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-repeti%C3%A7%C3%A3o/16-soma_valores.py): Utilizando estrutura de repetição, faça um algoritmo que leia 10 valores reais, e apresente a sua soma.
    

@@ -1,4 +1,8 @@
-# A confederação brasileira de natação promoverá eliminatórias para o próximo mundial. Fazer um algoritmo que receba a idade de um nadador e determine (imprima) a sua categoria segundo a tabela a seguir:
+# A confederação brasileira de natação promoverá eliminatórias para o próximo mundial. 
+# Fazer um algoritmo que receba a idade de um nadador e determine (imprima) a sua categoria segundo a tabela a seguir:
+# INFANTIL A: 5 - 7 anos; INFANTIL B: 8 - 10 anos; 
+# JUVENIL A: 11 - 13 anos; JUVENIL B: 14 - 17 anos; 
+# SÊNIOR: Maiores de 18 anos.
 
 print("\n===== NÍVEL PARA COMPETIÇÃO =====")
 idade = int(input("Digite sua idade: "))
