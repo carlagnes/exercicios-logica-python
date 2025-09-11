@@ -1,24 +1,28 @@
-## 🐍 Algoritmos e lógica de programação com Python  
+## 🐍 Algoritmos e lógica de programação com Python
+
 Este repositório contém exercícios resolvidos em Python, feitos durante o primeiro semestre na disciplina de Algoritmos e Lógica de Programação, no curso de Sistemas para Internet.
 
-## 📚 Sobre os exercícios 
+## 📚 Sobre os exercícios
+
 A lista é ideal para quem está iniciando na linguagem e quer praticar lógica de programação. Aqui você vai encontrar:
+
 - Funções simples
 - Operações matemáticas e lógicas
-- Estruturas condicionais (`if`, `elif`, `else`) 
-- Estruturas de repetição (`for`, `while`) - *Em breve!*
-
+- Estruturas condicionais (`if`, `elif`, `else`)
+- Estruturas de repetição (`for`, `while`)
 
 ## 📂 Organização
+
 - [Exercícios de entrada e saída](https://github.com/carlagnes/exercicios-logica-python/tree/main/entrada-saida)
 - [Estruturas de seleção](https://github.com/carlagnes/exercicios-logica-python/tree/main/estruturas-de-selecao)
-  
+
 ## 💬 Todos os enunciados
+
 [01-print](https://github.com/carlagnes/exercicios-logica-python/blob/main/entrada-saida/01-print.py): Quebrando a maldição: Imprima a mensagem "Olá, Mundo!" na tela.
 
 [02-soma](https://github.com/carlagnes/exercicios-logica-python/blob/main/entrada-saida/02-soma.py): Faça um algoritmo que calcule e apresente a soma de dois números inteiros informados pelo usuário.
 
-[03-nascimento](https://github.com/carlagnes/exercicios-logica-python/blob/main/entrada-saida/03-nascimento.py): Faça um algoritmo em que o usuário informe seu nome e sua idade. Apresente uma mensagem como: *"Olá, Carla! Você nasceu no ano de 1997."* OBS: Para o cálculo do ano, desconsidere o dia e mês de nascimento.
+[03-nascimento](https://github.com/carlagnes/exercicios-logica-python/blob/main/entrada-saida/03-nascimento.py): Faça um algoritmo em que o usuário informe seu nome e sua idade. Apresente uma mensagem como: _"Olá, Carla! Você nasceu no ano de 1997."_ OBS: Para o cálculo do ano, desconsidere o dia e mês de nascimento.
 
 [04-real_dolar](https://github.com/carlagnes/exercicios-logica-python/blob/main/entrada-saida/04-real_dolar.py): Faça um algoritmo que calcule a conversão de dólares para reais. O usuário deverá informar a cotação e o valor em dólares, e deverá apresentar o valor convertido em reais.
 
@@ -53,5 +57,17 @@ INFANTIL A: 5 - 7 anos; INFANTIL B: 8 - 10 anos; JUVENIL A: 11 - 13 anos; JUVENI
 
 [15-print_20-1](https://github.com/carlagnes/exercicios-logica-python/blob/main/estruturas-de-repeti%C3%A7%C3%A3o/15-printa_20-1.py): Utilizando a estrutura de repetição ENQUANTO (WHILE), faça um algoritmo que apresente todos os números inteiros de 20 a 1 (em ordem decrescente).
 
-[16-soma_valores](/03-estruturas-de-repetição/16-soma_valores.py): Utilizando estrutura de repetição, faça um algoritmo que leia 10 valores reais, e apresente a sua soma.
-   
+[17-soma_100](): Utilizando estrutura de repetição, faça um algoritmo que leia valores inteiros até que a soma dos valores lidos atinja o valor 100.
+
+[18-soma_positivo_negativo](): Utilizando estrutura de repetição, faça um algoritmo que receba 20 valores inteiros e imprima a soma dos valores positivos e a quantidade de valores negativos lidos.
+
+[19-mostra_maior_menor](): Utilizando estruturas de repetição, faça um algoritmo que receba 10 números inteiros e apresente o maior e o menor valores lidos.
+
+[20-consumidores](): Deseja-se calcular os valores a serem pagos pelos n consumidores de energia elétrica em um prédio. Faça um algoritmo que receba o custo do kWh, a quantidade de consumidores, e o consumo em kWh de cada um dos consumidores. Apresente o valor a ser pago por cada um dos consumidores. Apresente o total a ser pago por todos os consumidores do prédio
+
+[21-consumidores_report](): Deseja-se estudar o perfil dos consumidores de energia elétrica de uma cidade, para um dado mês do ano. Para tanto, deverão ser lidos os seguintes dados para cada um dos n consumidores de uma amostragem (n deve ser solicitado ao usuário no início do programa): consumo do mês, em kWh; tipo de consumidor: (1: residencial, 2: comercial e 3: industrial). Antes de ler os dados dos consumidores, o preço do kWh deve ser fornecido ao programa. Escrever um programa em Python que leia os dados indicados acima e calcule e imprima:
+
+- Para cada consumidor, o total a pagar;
+- O maior consumo verificado na amostra de consumidores;
+- O menor consumo verificado na amostra de consumidores;
+- O total do consumo para cada um dos três tipos de consumidores.

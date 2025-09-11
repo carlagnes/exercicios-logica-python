@@ -10,4 +10,4 @@ for i in range(10):
 
     break
 
-print(f"A soma dos 10 número é: {numero}")
+print(f"A soma dos 10 números é: {numero}")
